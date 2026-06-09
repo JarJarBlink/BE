@@ -1,15 +1,31 @@
 {
-  "date": "2026-06-08 12:00:22",
-  "files": [
+  "updates": [
     {
-      "file": "en_item.tsv",
-      "additions": 2,
-      "deletions": 0,
-      "added": [
-        "20260610\t1100\t20260617\t000\t150400\t999999\t0\t0\t2517\t203\t1\tNew Update Reward!\tThanks for picking up Version 15.4!<br>Enjoy a Rare Ticket to celebrate!\t7\t0\t0\t5\tfr\tRécompense de mise à jour !\tMerci d’avoir téléchargé la version 15.4 !<br>Reçois un ticket rare pour fêter ça !\tit\tRicompensa aggiornamento!\tGrazie per essere passato alla versione 15.4!<br>Ecco un biglietto raro per festeggiare!\tde\tNeues-Update-Belohnung!\tDu spielst jetzt Version 15.4!<br>Zur Belohnung erhältst du dieses seltene Ticket!\tes\tPremio de actualización\tGracias por instalar la versión 15.4.<br>¡Disfruta de un tique raro!\tth\tรางวัลอัปเดตใหม่!\tขอขอบคุณที่เลือกเวอร์ชัน 15.4!<br>รับตั๋วแรร์ไปฉลองได้เลย!\t0\t0\t0",
-        "20260610\t000\t20300101\t000\t150400\t999999\t0\t0\t52499\t35047\t0\tCat Stamp\tPlay daily to earn a stamp!\t3\t0\t1\t5\tfr\tTampon connexion\tJoue chaque jour pour gagner un tampon !\tit\tTimbro Gatto\tGioca ogni giorno e ottieni un timbro!\tde\tKatzenstempel\tSpiele jeden Tag und verdiene einen Stempel!\tes\tSello de lealtad\t¡Juega todos los días para conseguir un sello!\tth\tสแตมป์แมว\tเล่นทุกวันเพื่อรับแสตมป์!\t0\t0\t0"
-      ],
-      "removed": []
+      "date": "2026-06-09 12:27:32",
+      "files": [
+        {
+          "file": "en_gatya.tsv",
+          "additions": 0,
+          "deletions": 1,
+          "added": [],
+          "removed": [
+            "20260608\t1100\t20260619\t1100\t150300\t999999\t0\t0\t1\t1\t974\t150\t0\t36984\t0\t0\t6800\t0\t2500\t0\t700\t0\t0\t0\tA chance to earn special units! ★Tap for details!\t5\tfr\tChance de gagner des unités spéciales ! ★Touche pour en savoir plus !\tit\tUna possibilità di ottenere unità speciali! ★Tocca per i dettagli!\tde\tChance auf besondere Einheiten! ★Für Einzelheiten tippen!\tes\t¡Posibilidad de ganar unidades especiales! ★ ¡Toca para saber más!\tth\tโอกาสรับยูนิตพิเศษ! ★แตะเพื่อดูรายละเอียด!\t0"
+          ]
+        },
+        {
+          "file": "en_item.tsv",
+          "additions": 2,
+          "deletions": 2,
+          "added": [
+            "20260511\t1100\t20300101\t1100\t150300\t999999\t0\t0\t52474\t301\t0\t\t\t7\t0\t0\t0\t0\t0\t0",
+            "20260511\t1100\t20300101\t1100\t150300\t999999\t0\t0\t52475\t302\t0\t\t\t7\t0\t0\t0\t0\t0\t0"
+          ],
+          "removed": [
+            "20260511\t1100\t20300101\t1100\t150300\t999999\t0\t0\t52474\t301\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20260511\t1100\t20300101\t1100\t150300\t999999\t0\t0\t52475\t302\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0"
+          ]
+        }
+      ]
     }
   ]
 }
