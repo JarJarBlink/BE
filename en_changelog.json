@@ -1,6 +1,35 @@
 {
   "updates": [
     {
+      "date": "2026-06-24 13:08:01",
+      "files": [
+        {
+          "file": "en_gatya.tsv",
+          "additions": 1,
+          "deletions": 1,
+          "added": [
+            "20260619\t1100\t20260804\t0\t150400\t999999\t0\t0\t4\t1\t45\t0\t0\t0\t0\t0\t7000\t0\t2300\t0\t500\t1\t200\t0\t13-Year Celebration Limited Capsules until 8/3!\tDraw \t more times from this Event for a guaranteed chance at a Limited Hero!\t5\tfr\tChapsules de célébration des 13 ans jusqu’au 3/8 !\tTire \t fois de plus pour un héros à durée limitée garanti !\tit\tCapsule limitate Festeggiamenti anno 13 disponibili fino al 3/8!\tEstrai altre \t volte da questo evento e ottieni un eroe limitato garantito!\tde\tLimit. Kapsel zum 13. Jubiläum bis zum 3.8.!\tZiehe \t häufiger aus diesem Event und erhalte garantiert einen limit. Helden!\tes\t¡Bolas exclusivas por el 13.º aniversario hasta el 03/08!\tAbre \t bolas más en este evento para llevarte un héroe exclusivo.\tth\tกาชาจำกัดฉลองครบรอบ 13 ปีจนถึง 03/08!\tสุ่ม\tได้มากครั้งขึ้นจากอีเวนต์นี้เพื่อรับประกันโอกาสได้ฮีโร่แบบจำกัด!\t0"
+          ],
+          "removed": [
+            "20260619\t1100\t20260804\t000\t150400\t999999\t0\t0\t4\t1\t45\t0\t0\t0\t0\t0\t7000\t0\t2300\t0\t500\t1\t200\t0\t13-Year Celebration Limited Capsules until 8/3!\tDraw \t more times from this Event for a guaranteed chance at a Limited Hero!\t5\tfr\tChapsules de célébration des 13 ans jusqu’au 3/8 !\tTire \t fois de plus pour un héros à durée limitée garanti !\tit\tCapsule limitate Festeggiamenti anno 13 disponibili fino al 3/8!\tEstrai altre \t volte da questo evento e ottieni un eroe limitato garantito!\tde\tLimit. Kapsel zum 13. Jubiläum bis zum 3.8.!\tZiehe \t häufiger aus diesem Event und erhalte garantiert einen limit. Helden!\tes\t¡Bolas exclusivas por el 13.º aniversario hasta el 03/08!\t¡Abre más en este evento para tener\tla oportunidad de conseguir un héroe de edición limitada garantizado!\tth\tกาชาจำกัดฉลองครบรอบ 13 ปีจนถึง 03/08!\tสุ่ม\tได้มากครั้งขึ้นจากอีเวนต์นี้เพื่อรับประกันโอกาสได้ฮีโร่แบบจำกัด!\t0"
+          ]
+        },
+        {
+          "file": "en_item.tsv",
+          "additions": 2,
+          "deletions": 2,
+          "added": [
+            "20260619\t1100\t20300101\t1100\t150400\t999999\t0\t0\t52500\t301\t0\t\t\t7\t0\t0\t0\t0\t0\t0",
+            "20260619\t1100\t20300101\t1100\t150400\t999999\t0\t0\t52501\t302\t0\t\t\t7\t0\t0\t0\t0\t0\t0"
+          ],
+          "removed": [
+            "20260619\t1100\t20300101\t1100\t150400\t999999\t0\t0\t52500\t301\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20260619\t1100\t20300101\t1100\t150400\t999999\t0\t0\t52501\t302\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-06-17 14:23:44",
       "files": [
         {
