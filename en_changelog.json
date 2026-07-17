@@ -1,6 +1,33 @@
 {
   "updates": [
     {
+      "date": "2026-07-17 14:45:58",
+      "files": [
+        {
+          "file": "en_sale.tsv",
+          "additions": 1,
+          "deletions": 1,
+          "added": [
+            "20260723\t0\t20300101\t0\t150200\t999999\t0\t1\t0\t0\t8\t0\t4\t5000\t5001\t5002\t5012\t0"
+          ],
+          "removed": [
+            "20260309\t000\t20300101\t000\t150200\t999999\t0\t1\t0\t0\t8\t0\t4\t5000\t5001\t5002\t5012\t0"
+          ]
+        },
+        {
+          "file": "en_item.tsv",
+          "additions": 1,
+          "deletions": 1,
+          "added": [
+            "20260723\t0\t20300101\t1100\t150200\t999999\t0\t1\t0\t0\t8\t0\t2502\t220\t1\tIt's Meownesday☆\tGet 1 Leadership every Wednesday!\t1\t0\t1\t5\tfr\tC’est Miaoucredi ☆\tObtiens 1 Autorité tous les mercredis !\tit\tÈ miaorcoledì☆\tOttieni 1 Leadership ogni mercoledì!\tde\tEs ist Miezwoch☆\tHol dir jeden Mittwoch 1 Führung!\tes\tEs Miaúrcoles☆\t¡Consigue 1 liderazgo todos los miércoles!\tth\tวันเหมียวๆ☆\tรับความเป็นผู้นำ 1 หน่วยทุกวันพุธ!\t0\t0\t0"
+          ],
+          "removed": [
+            "20260429\t0\t20300101\t1100\t150200\t999999\t0\t1\t0\t0\t8\t0\t2502\t220\t1\tIt's Meownesday☆\tGet 1 Leadership every Wednesday!\t1\t0\t1\t5\tfr\tC’est Miaoucredi ☆\tObtiens 1 Autorité tous les mercredis !\tit\tÈ miaorcoledì☆\tOttieni 1 Leadership ogni mercoledì!\tde\tEs ist Miezwoch☆\tHol dir jeden Mittwoch 1 Führung!\tes\tEs Miaúrcoles☆\t¡Consigue 1 liderazgo todos los miércoles!\tth\tวันเหมียวๆ☆\tรับความเป็นผู้นำ 1 หน่วยทุกวันพุธ!\t0\t0\t0"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-07-15 10:30:06",
       "files": [
         {
