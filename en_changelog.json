@@ -1,6 +1,31 @@
 {
   "updates": [
     {
+      "date": "2026-07-24 10:52:10",
+      "files": [
+        {
+          "file": "en_sale.tsv",
+          "additions": 3,
+          "deletions": 0,
+          "added": [
+            "20260728\t1100\t20300101\t0\t150500\t999999\t0\t0\t1\t114\t0",
+            "20260727\t000\t20300101\t000\t150500\t999999\t0\t1\t0\t4\t13\t14\t27\t28\t0\t0\t1\t1433\t0",
+            "20260729\t000\t20300101\t000\t150500\t999999\t0\t1\t0\t0\t8\t0\t62\t112\t1017\t1018\t1019\t1020\t1021\t1022\t1023\t1024\t1025\t1208\t1102\t1103\t1104\t1105\t1106\t1107\t1108\t1109\t1110\t1028\t1059\t1124\t1155\t1319\t1095\t1117\t1119\t1128\t1158\t1177\t1215\t1217\t1219\t1220\t1226\t1229\t1231\t1232\t1246\t1272\t1273\t1196\t1199\t1201\t1205\t1207\t1214\t1243\t1296\t1338\t1375\t1381\t1383\t1393\t1404\t1433\t1340\t1348\t1391\t1406\t1421\t0"
+          ],
+          "removed": []
+        },
+        {
+          "file": "en_item.tsv",
+          "additions": 1,
+          "deletions": 0,
+          "added": [
+            "20260727\t1100\t20260803\t000\t150500\t999999\t0\t0\t2523\t203\t1\tNew Update Reward!\tThanks for picking up Version 15.5!<br>Enjoy a Rare Ticket to celebrate!\t7\t0\t0\t5\tfr\tRécompense de mise à jour !\tMerci d’avoir téléchargé la version 15.5 !<br>Reçois un ticket rare pour fêter ça !\tit\tRicompensa aggiornamento!\tGrazie per essere passato alla versione 15.5!<br>Ecco un biglietto raro per festeggiare!\tde\tNeues-Update-Belohnung!\tDu spielst jetzt Version 15.5!<br>Zur Belohnung erhältst du dieses seltene Ticket!\tes\tPremio de actualización\tGracias por instalar la versión 15.5.<br>¡Disfruta de un tique raro!\tth\tรางวัลอัปเดตใหม่!\tขอขอบคุณที่เลือกเวอร์ชัน 15.5!<br>รับตั๋วแรร์ไปฉลองได้เลย!\t0\t0\t0"
+          ],
+          "removed": []
+        }
+      ]
+    },
+    {
       "date": "2026-07-17 14:45:58",
       "files": [
         {
