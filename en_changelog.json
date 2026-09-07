@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2026-09-07 11:56:56",
+      "files": [
+        {
+          "file": "en_sale.tsv",
+          "additions": 4,
+          "deletions": 0,
+          "added": [
+            "20260904\t1100\t20260911\t1100\t150500\t999999\t0\t0\t18\t1117\t1199\t1217\t1296\t1177\t1214\t1232\t1375\t1377\t1158\t1207\t1095\t1196\t1229\t1338\t1231\t1393\t1378\t0",
+            "20260904\t1100\t20260911\t1100\t150500\t999999\t0\t0\t2\t9764\t9765\t0",
+            "20260911\t1100\t20260918\t1100\t150500\t999999\t0\t0\t11\t1119\t1201\t1128\t1205\t1220\t1383\t1219\t1381\t1379\t1226\t1243\t0",
+            "20260911\t1100\t20260918\t1100\t150500\t999999\t0\t0\t2\t9770\t9771\t0"
+          ],
+          "removed": []
+        }
+      ]
+    },
+    {
       "date": "2026-08-31 16:27:47",
       "files": [
         {
@@ -650,35 +667,6 @@
             "20260610\t1100\t20260617\t000\t150400\t999999\t0\t0\t2517\t203\t1\tNew Update Reward!\tThanks for picking up Version 15.4!<br>Enjoy a Rare Ticket to celebrate!\t7\t0\t0\t5\tfr\tRécompense de mise à jour !\tMerci d’avoir téléchargé la version 15.4 !<br>Reçois un ticket rare pour fêter ça !\tit\tRicompensa aggiornamento!\tGrazie per essere passato alla versione 15.4!<br>Ecco un biglietto raro per festeggiare!\tde\tNeues-Update-Belohnung!\tDu spielst jetzt Version 15.4!<br>Zur Belohnung erhältst du dieses seltene Ticket!\tes\tPremio de actualización\tGracias por instalar la versión 15.4.<br>¡Disfruta de un tique raro!\tth\tรางวัลอัปเดตใหม่!\tขอขอบคุณที่เลือกเวอร์ชัน 15.4!<br>รับตั๋วแรร์ไปฉลองได้เลย!\t0\t0\t0",
             "20260619\t1100\t20300101\t1100\t150400\t999999\t0\t0\t52500\t301\t0\t\t\t7\t0\t0\t0\t0\t0\t0",
             "20260619\t1100\t20300101\t1100\t150400\t999999\t0\t0\t52501\t302\t0\t\t\t7\t0\t0\t0\t0\t0\t0"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-24 13:08:01",
-      "files": [
-        {
-          "file": "en_gatya.tsv",
-          "additions": 1,
-          "deletions": 1,
-          "added": [
-            "20260619\t1100\t20260804\t0\t150400\t999999\t0\t0\t4\t1\t45\t0\t0\t0\t0\t0\t7000\t0\t2300\t0\t500\t1\t200\t0\t13-Year Celebration Limited Capsules until 8/3!\tDraw \t more times from this Event for a guaranteed chance at a Limited Hero!\t5\tfr\tChapsules de célébration des 13 ans jusqu’au 3/8 !\tTire \t fois de plus pour un héros à durée limitée garanti !\tit\tCapsule limitate Festeggiamenti anno 13 disponibili fino al 3/8!\tEstrai altre \t volte da questo evento e ottieni un eroe limitato garantito!\tde\tLimit. Kapsel zum 13. Jubiläum bis zum 3.8.!\tZiehe \t häufiger aus diesem Event und erhalte garantiert einen limit. Helden!\tes\t¡Bolas exclusivas por el 13.º aniversario hasta el 03/08!\tAbre \t bolas más en este evento para llevarte un héroe exclusivo.\tth\tกาชาจำกัดฉลองครบรอบ 13 ปีจนถึง 03/08!\tสุ่ม\tได้มากครั้งขึ้นจากอีเวนต์นี้เพื่อรับประกันโอกาสได้ฮีโร่แบบจำกัด!\t0"
-          ],
-          "removed": [
-            "20260619\t1100\t20260804\t000\t150400\t999999\t0\t0\t4\t1\t45\t0\t0\t0\t0\t0\t7000\t0\t2300\t0\t500\t1\t200\t0\t13-Year Celebration Limited Capsules until 8/3!\tDraw \t more times from this Event for a guaranteed chance at a Limited Hero!\t5\tfr\tChapsules de célébration des 13 ans jusqu’au 3/8 !\tTire \t fois de plus pour un héros à durée limitée garanti !\tit\tCapsule limitate Festeggiamenti anno 13 disponibili fino al 3/8!\tEstrai altre \t volte da questo evento e ottieni un eroe limitato garantito!\tde\tLimit. Kapsel zum 13. Jubiläum bis zum 3.8.!\tZiehe \t häufiger aus diesem Event und erhalte garantiert einen limit. Helden!\tes\t¡Bolas exclusivas por el 13.º aniversario hasta el 03/08!\t¡Abre más en este evento para tener\tla oportunidad de conseguir un héroe de edición limitada garantizado!\tth\tกาชาจำกัดฉลองครบรอบ 13 ปีจนถึง 03/08!\tสุ่ม\tได้มากครั้งขึ้นจากอีเวนต์นี้เพื่อรับประกันโอกาสได้ฮีโร่แบบจำกัด!\t0"
-          ]
-        },
-        {
-          "file": "en_item.tsv",
-          "additions": 2,
-          "deletions": 2,
-          "added": [
-            "20260619\t1100\t20300101\t1100\t150400\t999999\t0\t0\t52500\t301\t0\t\t\t7\t0\t0\t0\t0\t0\t0",
-            "20260619\t1100\t20300101\t1100\t150400\t999999\t0\t0\t52501\t302\t0\t\t\t7\t0\t0\t0\t0\t0\t0"
-          ],
-          "removed": [
-            "20260619\t1100\t20300101\t1100\t150400\t999999\t0\t0\t52500\t301\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
-            "20260619\t1100\t20300101\t1100\t150400\t999999\t0\t0\t52501\t302\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0"
           ]
         }
       ]
