@@ -1,6 +1,83 @@
 {
   "updates": [
     {
+      "date": "2026-09-16 15:28:52",
+      "files": [
+        {
+          "file": "en_sale.tsv",
+          "additions": 13,
+          "deletions": 4,
+          "added": [
+            "20260918\t1100\t20261005\t1100\t150600\t999999\t0\t0\t2\t2052\t27014\t0",
+            "20260918\t1100\t20261005\t1100\t150600\t999999\t0\t0\t1\t11048\t0",
+            "20260918\t1100\t20261005\t1100\t150600\t999999\t0\t0\t4\t9412\t9413\t9414\t9709\t0",
+            "20260919\t1100\t20261005\t1100\t150600\t999999\t0\t0\t1\t2195\t0",
+            "20260921\t1100\t20261005\t1100\t150600\t999999\t0\t0\t1\t2196\t0",
+            "20260921\t1100\t20260928\t1100\t150600\t999999\t0\t0\t1\t24038\t0",
+            "20260923\t1100\t20261005\t1100\t150600\t999999\t0\t0\t1\t2194\t0",
+            "20260925\t1100\t20261005\t1100\t150600\t999999\t0\t0\t2\t2270\t27026\t0",
+            "20260925\t1100\t20261005\t1100\t150600\t999999\t0\t0\t2\t9710\t9711\t0",
+            "20260926\t1100\t20261005\t1100\t150600\t999999\t0\t0\t1\t2197\t0",
+            "20260928\t1100\t20261005\t1100\t150600\t999999\t0\t0\t2\t2198\t2087\t0",
+            "20261001\t1100\t20261016\t000\t150600\t999999\t0\t0\t1\t36024\t0",
+            "20261001\t1100\t20261016\t000\t150600\t999999\t0\t0\t4\t9493\t9494\t9495\t9496\t0"
+          ],
+          "removed": [
+            "20260904\t1100\t20260911\t000\t150500\t999999\t0\t0\t1\t18100\t0",
+            "20260907\t1100\t20260914\t1100\t150500\t999999\t0\t0\t1\t24061\t0",
+            "20260904\t1100\t20260911\t1100\t150500\t999999\t0\t0\t18\t1117\t1199\t1217\t1296\t1177\t1214\t1232\t1375\t1377\t1158\t1207\t1095\t1196\t1229\t1338\t1231\t1393\t1378\t0",
+            "20260904\t1100\t20260911\t1100\t150500\t999999\t0\t0\t2\t9764\t9765\t0"
+          ]
+        },
+        {
+          "file": "en_gatya.tsv",
+          "additions": 12,
+          "deletions": 2,
+          "added": [
+            "20260918\t1100\t20260921\t1100\t150600\t999999\t0\t0\t1\t1\t1062\t150\t0\t0\t0\t0\t6470\t0\t2600\t0\t900\t0\t30\t0\tLone Moon Lunos added! Special Capsules featuring powerful limited units!\t5\tfr\tLunos, Lune solitaire ajoutée ! Chapsules spéciales : puissantes unités limitées !\tit\tAggiunta  Luna solitaria Lunos! Capsule speciali con unità limitate speciali!\tde\tEinheit „Lunos der einsame Mond“ hinzugefügt! Besondere Kapseln mit mächtigen limit. Einheiten!\tes\t¡Unidad «Lunos Luna Solitaria»! Las bolas especiales traen unidades limitadas poderosas.\tth\tเพิ่มยูนิตใหม่ ลูโนส จันทร์เดียวดาย! กาชาพิเศษที่มียูนิตจำกัดทรงพลัง!\t0",
+            "20260918\t1100\t20261005\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1081\t150\t0\t16384\t0\t0\t7000\t0\t2500\t0\t500\t0\t0\t0\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\t0\t5\tfr\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tit\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tde\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tes\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tth\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\t0\t0",
+            "20260918\t1100\t20260921\t1100\t150600\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t986\t150\t0\t16384\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tMamoluga added! Unstoppable Eldritch Cats(?)!\t0\t0\t5\tfr\tMamoluga ajoutée ! Chats (?) surnaturels invincibles !\tit\tAggiunta  Mamoluga! Gatti arcani (?) inarrestabili!\tde\tEinheit „Mamoluga“ hinzugefügt! Unaufhaltsame schaurige Katzen(?)!\tes\t¡Unidad «Mamoluga»! ¡Gatos de Eldritch!\tth\tเพิ่มยูนิตใหม่ มาโมลูก้า! แมวเอลดริตช์เกินต้าน (?)!\t0\t0\t0",
+            "20260921\t1100\t20261005\t1100\t150600\t999999\t0\t0\t1\t1\t1081\t150\t0\t16384\t0\t0\t7000\t0\t2500\t0\t500\t0\t0\t0\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\t5\tfr\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tit\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tde\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tes\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tth\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\t0",
+            "20260921\t1100\t20260925\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1021\t150\t0\t16384\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tRaclesa added! Cosmic cuties, here to crush your enemies!\t0\t5\tfr\tRaclesa la lionne ajoutée ! Beautés cosmiques qui tueront tes ennemis !\tit\tAggiunta  Raclesa la Leonessa! Bellezze cosmiche distruttive!\tde\tEinheit „Raclesa die Löwin“ hinzugefügt! Kosmische Fratze vernichten deine Gegner!\tes\t¡Unidad «Raclesa la Leona»! ¡Bellezas cósmicas!\tth\tเพิ่มยูนิตใหม่ ราเคลซา นางสิงโต! แมวจักรวาลน่าเอ็นดู มาที่นี่เพื่อปราบศัตรูของคุณ!\t0\t0",
+            "20260921\t1100\t20260925\t1100\t150600\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t979\t150\t0\t16384\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tMighty Morta-Loncha added! Ultimate anti-Zombie firepower!\t0\t0\t5\tfr\tPuissant lance-obus ajoutée ! Puissance de feu anti-zombie ultime !\tit\tAggiunta  Obice possente! Potenza anti-zombi finale!\tde\tEinheit „Mächtige Morta-Loncha“ hinzugefügt! Ultimative Feuerkraft gg. Zombies!\tes\t¡Unidad «Gatomortero Brutal»! ¡Poder antizombi!\tth\tเพิ่มยูนิตใหม่ มอร์ต้า-ลอนค่าจอมพลัง! กำลังต่อสู้ต้านซอมบี้แบบสุดยอด!\t0\t0\t0",
+            "20260925\t1100\t20260928\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t772\t150\t0\t4\t0\t0\t7000\t0\t2500\t0\t500\t0\t0\t0\tCapsules featuring Colossus Slayer units!  With Increasing Capsules!\t0\t5\tfr\tChapsules avec Fléaux des colosses et Chapsules à bonus !\tit\tCapsule con unità ammazzagiganti! E con capsula bonus!\tde\tKapseln mit Kolosstöter-Einheiten! Mit Riesenkapseln!\tes\t¡Bolas con unidades de matacolosos! ¡Con bolas colmadas!\tth\tกาชาใหาพร้อมยูนิตมือสังหารยักษ์! พร้อมกาชาที่เพิ่มขึ้น!\t0\t0",
+            "20260925\t1100\t20260928\t1100\t150600\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t523\t150\t0\t4\t0\t0\t7000\t0\t2500\t0\t500\t0\t0\t0\tDefend your Cats with the Wave Busters! ★ With Increasing Capsules!\t0\t0\t5\tfr\tDéfends tes Chats avec les Chasseurs de vagues ! ★ Avec des Chapsules à bonus !\tit\tDifendi i tuoi Gatti con gli Antiondate! ★ Con capsule bonus!\tde\tVerteidige deine Katzen mit den Wellenbrechern! ★ Mit Riesenkapseln!\tes\t¡Defiende a tus gatos con los Antioleada! ★ ¡Con bolas colmadas!\tth\tปกป้องแมวของคุณด้วยเวฟบัสเตอร์! ★ ไอเทมกาชาเพิ่มขึ้น!\t0\t0\t0",
+            "20260928\t1100\t20261005\t1100\t150600\t999999\t0\t0\t1\t1\t1081\t150\t0\t0\t0\t0\t7000\t0\t2500\t0\t500\t1\t0\t0\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\t5\tfr\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tit\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tde\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tes\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\tth\tNEW Uber Rare heroes Shirou Emiya and True Assassin! ★ Tap the banner for more info on this collab capsule set!\t0",
+            "20260928\t1100\t20260930\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1004\t150\t0\t0\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tConjurer hero Komori joins the fight! ★Tap for details!\t0\t5\tfr\tLe héros conjurateur Komori rejoint le combat ! ★Touche pour + d’infos !\tit\tL'eroe evocatore Komori scende in campo! ★Tocca per info!\tde\tBeschwörerheld „Komori“ tritt dem Kampf bei! ★Für Details tippen!\tes\t¡El héroe invocador «Komori» se une a la lucha! ★ ¡Toca para saber más!\tth\tฮีโร่นักปลุกวิญญาณ โคโมริ เข้าร่วมทัพ! ★แตะเพื่อดูรายละเอียด!\t0\t0",
+            "20260930\t1100\t20261002\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t947\t150\t0\t0\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tCommand mighty Conjurer Mech Patrol Axel! ★Tap banner for info!\t0\t5\tfr\tConjurateur Méca-patrouille Axel rejoint la bataille ! ★ Touche pour info !\tit\tL'evocatore Axel Pattuglia Mech scende in campo! ★ Tocca il banner!\tde\tBeschwörer „Mecha-Patrouille Axel“ tritt dem Kampf bei! ★Tippe auf das Banner!\tes\t¡El invocador «Guardia mecánico Axel» se une a la lucha! ★ ¡Toca para saber más!\tth\tนักปลุกวิญญาณ แอ็กเซิล หน่วยลาดตระเวนเมค มาร่วมต่อสู้ด้วย! ★แตะแบนเนอร์เพื่อดูข้อมูล!\t0\t0",
+            "20261002\t1100\t20261005\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1015\t150\t0\t0\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tSorceress Sidmi added! Spooky beauties from beyond!\t0\t5\tfr\tSorcière Sidmi ajoutée ! Beautés inquiétantes de l’au-delà !\tit\tAggiunta  Maga Sidmi! Bellezze spettrali dall'aldilà!\tde\tEinheit „Zauberin Sidmi“ hinzugefügt! Gruselschönheiten aus dem Jenseits!\tes\t¡Unidad «Hechicera Sidmi»! ¡Bellezas del más allá!\tth\tเพิ่มยูนิตใหม่ แม่มดซิดมี! สาวงามสุดหลอนจากโลกอื่น!\t0\t0"
+          ],
+          "removed": [
+            "20260904\t1100\t20260911\t1100\t150500\t999999\t0\t0\t1\t1\t1061\t150\t0\t0\t0\t0\t6470\t0\t2600\t0\t900\t0\t30\t0\tSquire Luno added! Special Capsules featuring powerful limited units!\t5\tfr\tÉcuyer Luno ajoutée ! Chapsules spéciales : puissantes unités limitées !\tit\tAggiunta  Scudiero Luno! Capsule speciali con unità limitate speciali!\tde\tEinheit „Knappe Luno“ hinzugefügt! Besondere Kapseln mit mächtigen limit. Einheiten!\tes\t¡Unidad «Escudero Luno»! Las bolas especiales traen unidades limitadas poderosas.\tth\tเพิ่มยูนิตใหม่ ลูโน อัศวินฝึกหัด! กาชาพิเศษที่มียูนิตจำกัดทรงพลัง!\t0",
+            "20260911\t1100\t20260914\t1100\t150500\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1059\t150\t0\t4216\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tVornado added! Dragon kings of overwhelming power!\t0\t0\t5\tfr\tVornado ajoutée ! Des rois dragons au pouvoir immense !\tit\tAggiunta  Vornado! Re Dragoni di travolgente potenza!\tde\tEinheit „Vornado“ hinzugefügt! Überwältigend mächtige Drachenkönige!\tes\t¡Unidad «Vornado»! ¡Reyes dragones!\tth\tเพิ่มยูนิตใหม่ วอร์นาโด! ราชามังกรแห่งพลังเกินต้าน!\t0\t0\t0"
+          ]
+        },
+        {
+          "file": "en_item.tsv",
+          "additions": 12,
+          "deletions": 2,
+          "added": [
+            "20260904\t1100\t20260918\t1100\t150500\t999999\t0\t0\t52553\t301\t0\t\t\t7\t0\t0\t0\t0\t0\t0",
+            "20260904\t1100\t20260918\t1100\t150500\t999999\t0\t0\t52554\t302\t0\t\t\t7\t0\t0\t0\t0\t0\t0",
+            "20260918\t1100\t20300101\t1100\t150600\t999999\t0\t0\t52560\t301\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20260918\t1100\t20300101\t1100\t150600\t999999\t0\t0\t52561\t302\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20260918\t1100\t20261005\t1100\t150600\t999999\t0\t0\t52562\t35046\t0\tFate/stay night[HF] Login Stamps\tLog in every day until 【10/5】 to earn a new stamp,<br>along with items and limited units!\t7\t0\t1\t5\tfr\tFate/stay night[HF] Login Stamps\tLog in every day until 【10/5】 to earn a new stamp,<br>along with items and limited units!\tit\tFate/stay night[HF] Login Stamps\tLog in every day until 【10/5】 to earn a new stamp,<br>along with items and limited units!\tde\tFate/stay night[HF] Login Stamps\tLog in every day until 【10/5】 to earn a new stamp,<br>along with items and limited units!\tes\tFate/stay night[HF] Login Stamps\tLog in every day until 【10/5】 to earn a new stamp,<br>along with items and limited units!\tth\tFate/stay night[HF] Login Stamps\tLog in every day until 【10/5】 to earn a new stamp,<br>along with items and limited units!\t0\t0\t0",
+            "20260918\t1100\t20260921\t1100\t150600\t999999\t0\t0\t52563\t801\t0\t\t\t300\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20260918\t1100\t20260921\t1100\t150600\t999999\t0\t0\t52564\t821\t0\t\t\t300\t2\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20260918\t1100\t20261005\t1100\t150600\t999999\t0\t0\t52567\t852\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20260918\t1100\t20261012\t1100\t150600\t999999\t0\t0\t80125\t11048\t0\t\t\t0\t0\t1\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20260921\t1100\t20261005\t1100\t150600\t999999\t0\t0\t52568\t800\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261001\t000\t20261002\t000\t150600\t999999\t0\t0\t52570\t835\t0\t\t\t7\t0\t2\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261001\t000\t20261002\t000\t150600\t999999\t0\t0\t52571\t802\t0\t\t\t7\t0\t4\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0"
+          ],
+          "removed": [
+            "20260904\t1100\t20300101\t1100\t150500\t999999\t0\t0\t52553\t301\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20260904\t1100\t20300101\t1100\t150500\t999999\t0\t0\t52554\t302\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-11 12:00:36",
       "files": [
         {
@@ -469,33 +546,6 @@
             "20260727\t1100\t20260803\t000\t150500\t999999\t0\t0\t2523\t203\t1\tNew Update Reward!\tThanks for picking up Version 15.5!<br>Enjoy a Rare Ticket to celebrate!\t7\t0\t0\t5\tfr\tRécompense de mise à jour !\tMerci d’avoir téléchargé la version 15.5 !<br>Reçois un ticket rare pour fêter ça !\tit\tRicompensa aggiornamento!\tGrazie per essere passato alla versione 15.5!<br>Ecco un biglietto raro per festeggiare!\tde\tNeues-Update-Belohnung!\tDu spielst jetzt Version 15.5!<br>Zur Belohnung erhältst du dieses seltene Ticket!\tes\tPremio de actualización\tGracias por instalar la versión 15.5.<br>¡Disfruta de un tique raro!\tth\tรางวัลอัปเดตใหม่!\tขอขอบคุณที่เลือกเวอร์ชัน 15.5!<br>รับตั๋วแรร์ไปฉลองได้เลย!\t0\t0\t0"
           ],
           "removed": []
-        }
-      ]
-    },
-    {
-      "date": "2026-07-17 14:45:58",
-      "files": [
-        {
-          "file": "en_sale.tsv",
-          "additions": 1,
-          "deletions": 1,
-          "added": [
-            "20260723\t0\t20300101\t0\t150200\t999999\t0\t1\t0\t0\t8\t0\t4\t5000\t5001\t5002\t5012\t0"
-          ],
-          "removed": [
-            "20260309\t000\t20300101\t000\t150200\t999999\t0\t1\t0\t0\t8\t0\t4\t5000\t5001\t5002\t5012\t0"
-          ]
-        },
-        {
-          "file": "en_item.tsv",
-          "additions": 1,
-          "deletions": 1,
-          "added": [
-            "20260723\t0\t20300101\t1100\t150200\t999999\t0\t1\t0\t0\t8\t0\t2502\t220\t1\tIt's Meownesday☆\tGet 1 Leadership every Wednesday!\t1\t0\t1\t5\tfr\tC’est Miaoucredi ☆\tObtiens 1 Autorité tous les mercredis !\tit\tÈ miaorcoledì☆\tOttieni 1 Leadership ogni mercoledì!\tde\tEs ist Miezwoch☆\tHol dir jeden Mittwoch 1 Führung!\tes\tEs Miaúrcoles☆\t¡Consigue 1 liderazgo todos los miércoles!\tth\tวันเหมียวๆ☆\tรับความเป็นผู้นำ 1 หน่วยทุกวันพุธ!\t0\t0\t0"
-          ],
-          "removed": [
-            "20260429\t0\t20300101\t1100\t150200\t999999\t0\t1\t0\t0\t8\t0\t2502\t220\t1\tIt's Meownesday☆\tGet 1 Leadership every Wednesday!\t1\t0\t1\t5\tfr\tC’est Miaoucredi ☆\tObtiens 1 Autorité tous les mercredis !\tit\tÈ miaorcoledì☆\tOttieni 1 Leadership ogni mercoledì!\tde\tEs ist Miezwoch☆\tHol dir jeden Mittwoch 1 Führung!\tes\tEs Miaúrcoles☆\t¡Consigue 1 liderazgo todos los miércoles!\tth\tวันเหมียวๆ☆\tรับความเป็นผู้นำ 1 หน่วยทุกวันพุธ!\t0\t0\t0"
-          ]
         }
       ]
     }
