@@ -1,6 +1,108 @@
 {
   "updates": [
     {
+      "date": "2026-10-30 10:33:07",
+      "files": [
+        {
+          "file": "en_sale.tsv",
+          "additions": 12,
+          "deletions": 14,
+          "added": [
+            "20261102\t1100\t20261116\t1100\t150700\t999999\t0\t0\t2\t1260\t1261\t0",
+            "20261102\t1100\t20261116\t1100\t150700\t999999\t0\t1\t0\t0\t0\t1\t0\t2400\t1\t1359\t0",
+            "20261102\t1100\t20261116\t1100\t150700\t999999\t0\t0\t5\t9268\t9380\t9381\t9382\t9265\t0",
+            "20261102\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t24056\t0",
+            "20261102\t1100\t20261109\t1100\t150700\t999999\t0\t0\t1\t24027\t0",
+            "20261106\t1100\t20261116\t1100\t150700\t999999\t0\t0\t3\t1262\t1263\t1264\t0",
+            "20261106\t1100\t20261116\t1100\t150700\t999999\t0\t0\t2\t9787\t9788\t0",
+            "20261106\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t1321\t0",
+            "20261109\t1100\t20261126\t1100\t150700\t999999\t0\t0\t1\t16000\t0",
+            "20261109\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t1336\t0",
+            "20261111\t1100\t20261207\t1100\t150700\t999999\t0\t0\t1\t1287\t0",
+            "20261111\t1100\t20261207\t1100\t150700\t999999\t0\t0\t16\t0\t1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t50\t51\t700\t701\t702\t0"
+          ],
+          "removed": [
+            "20261001\t1100\t20261016\t000\t150600\t999999\t0\t0\t1\t36024\t0",
+            "20261001\t1100\t20261016\t000\t150600\t999999\t0\t0\t4\t9493\t9494\t9495\t9496\t0",
+            "20261012\t1100\t20261019\t000\t150600\t999999\t0\t0\t1\t18106\t0",
+            "20261005\t1100\t20261017\t1100\t150600\t999999\t0\t0\t4\t5000\t5001\t5002\t5012\t0",
+            "20261009\t1100\t20261026\t1100\t150600\t999999\t0\t0\t2\t1154\t1349\t0",
+            "20261009\t1100\t20261026\t1100\t150600\t999999\t0\t0\t3\t9011\t9012\t9013\t0",
+            "20261012\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t39000\t0",
+            "20261012\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t41000\t0",
+            "20261016\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t40000\t0",
+            "20261016\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t41001\t0",
+            "20261019\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t24037\t0",
+            "20261020\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t40001\t0",
+            "20261020\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t41002\t0",
+            "20261024\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t41003\t0"
+          ]
+        },
+        {
+          "file": "en_gatya.tsv",
+          "additions": 7,
+          "deletions": 15,
+          "added": [
+            "20261107\t1100\t20261116\t1100\t150700\t999999\t0\t0\t0\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t3\t0\t300\t0\t400\t0\t2000\t0\t7000\t0\t600\t0\t0\t0\tLimited Capsules ★ Collect Catfruit by drawing from this set!\t0\t5\tfr\tChapsules ponctuelles ★ Obtiens des Chagrumes dans cet ensemble !\tit\tCapsule limitate ★ Ottieni miagrumi sorteggiando da questo set!\tde\tLimitierte Kapseln ★ Sammle Katzenfrüchte aus diesem Set!\tes\tBolas exclusivas ★ ¡Consigue fruta felina en esta serie de bolas!\tth\tกาชาจำกัด ★ เก็บผลไม้เหมียวด้วยการสุ่มจากเซ็ตนี้!\t0\t0",
+            "20261102\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t1\t1079\t150\t0\t0\t0\t0\t7000\t0\t2500\t0\t500\t0\t0\t0\tPick up mighty teammates to fight by your side in a River City Clash!\t5\tfr\tPick up mighty teammates to fight by your side in a River City Clash!\tit\tPick up mighty teammates to fight by your side in a River City Clash!\tde\tPick up mighty teammates to fight by your side in a River City Clash!\tes\tPick up mighty teammates to fight by your side in a River City Clash!\tth\tPick up mighty teammates to fight by your side in a River City Clash!\t0",
+            "20261102\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1080\t150\t0\t0\t0\t0\t7000\t0\t2500\t0\t500\t0\t0\t0\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\t0\t5\tfr\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\tit\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\tde\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\tes\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\tth\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\t0\t0",
+            "20261102\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t926\t150\t0\t16384\t0\t0\t7000\t0\t2500\t0\t500\t0\t0\t0\tLimited Halloween Units! Get spooky special editions of Uber Cats!\t0\t0\t5\tfr\tUnités d’Halloween à durée limitée ! Ultra rares version terrifiante !\tit\tUnità limitate di Halloween! Spaventose edizioni speciali dei gatti ultra!\tde\tLimitierte Halloween-Einheiten! Hol dir gespenstische Mega-Katzen!\tes\t¡Unidades exclusivas de Halloween! Gana ediciones terroríficas de megarraros.\tth\tยูนิตฮาโลวีนแบบจำกัด! รับแมวอูเบอร์เวอร์ชันหลอนพิเศษ!\t0\t0\t0",
+            "20261109\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t1\t1079\t150\t0\t0\t0\t0\t7000\t0\t2500\t0\t500\t1\t0\t0\tPick up mighty teammates to fight by your side in a River City Clash!\t5\tfr\tPick up mighty teammates to fight by your side in a River City Clash!\tit\tPick up mighty teammates to fight by your side in a River City Clash!\tde\tPick up mighty teammates to fight by your side in a River City Clash!\tes\tPick up mighty teammates to fight by your side in a River City Clash!\tth\tPick up mighty teammates to fight by your side in a River City Clash!\t0",
+            "20261109\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1080\t150\t0\t0\t0\t0\t7000\t0\t2500\t0\t500\t1\t0\t0\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\t0\t5\tfr\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\tit\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\tde\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\tes\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\tth\tRiver City Clash Capsules, featuring Ryuichi! ★Tap banner for details!\t0\t0",
+            "20261109\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t926\t150\t0\t0\t0\t0\t7000\t0\t2500\t0\t500\t1\t0\t0\tLimited Halloween Units! Get spooky special editions of Uber Cats!\t0\t0\t5\tfr\tUnités d’Halloween à durée limitée ! Ultra rares version terrifiante !\tit\tUnità limitate di Halloween! Spaventose edizioni speciali dei gatti ultra!\tde\tLimitierte Halloween-Einheiten! Hol dir gespenstische Mega-Katzen!\tes\t¡Unidades exclusivas de Halloween! Gana ediciones terroríficas de megarraros.\tth\tยูนิตฮาโลวีนแบบจำกัด! รับแมวอูเบอร์เวอร์ชันหลอนพิเศษ!\t0\t0\t0"
+          ],
+          "removed": [
+            "20261005\t1100\t20261017\t1100\t150600\t999999\t0\t0\t0\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t65\t0\t0\t2\t500\t0\t6900\t0\t2000\t0\t500\t0\t100\t0\t★ Limited Capsules ★ Pick up extra Catseyes in this special Capsule set!\t0\t5\tfr\t★ Chapsules à durée limitée ★ Plus d’œils-de-chat dans ces Chapsules spéciales !\tit\t★ Capsule limitate ★ Ottieni Occhio di gatto in questo speciale set capsule!\tde\t★ Limitierte Kapseln ★ Hol dir zusätzliche Katzenaugen durch dieses Kapselset!\tes\t★ Bolas exclusivas ★ ¡Consigue más gatojos en esta serie especial de bolas!\tth\t★กาชาจำกัด★ เก็บตาแมวเพิ่มในชุดกาชาพิเศษนี้!\t0\t0",
+            "20261005\t1100\t20261016\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1077\t150\t0\t0\t0\t0\t6930\t0\t2500\t0\t500\t0\t70\t0\tLimited Uber Rare unit Metal Maiden Koneko added! 120M DL Special Capsules!\t0\t5\tfr\tAjout de l’unité ultra rare limitée Koneko fille du métal ! Chapsules spéciales des 120 M !\tit\tAggiunta unità ultra rara limitata Metal Maiden Koneko! Capsule speciali 120M di download!\tde\tMegaseltene limit. Einheit Eiserne Jungfrau Koneko hinzugefügt! Besondere 120-Mio.-DL-Kapseln!\tes\t¡Nueva megarrara limitada «Metalera Koneko»! ¡Bolas especiales de los 120 M!\tth\tเพิ่มยูนิตอูเบอร์แรร์จำกัด โกเนโกะ พรหมจารีโลหะ! กาชาพิเศษ 120ล. ดาวน์โหลด!\t0\t0",
+            "20261009\t1100\t20261016\t1100\t150600\t999999\t0\t0\t1\t1\t1077\t150\t0\t4216\t0\t0\t6930\t0\t2500\t0\t500\t0\t70\t0\tLimited Uber Rare unit Metal Maiden Koneko added! 120M DL Special Capsules!\t5\tfr\tAjout de l’unité ultra rare limitée Koneko fille du métal ! Chapsules spéciales des 120 M !\tit\tAggiunta unità ultra rara limitata Metal Maiden Koneko! Capsule speciali 120M di download!\tde\tMegaseltene limit. Einheit Eiserne Jungfrau Koneko hinzugefügt! Besondere 120-Mio.-DL-Kapseln!\tes\t¡Nueva megarrara limitada «Metalera Koneko»! ¡Bolas especiales de los 120 M!\tth\tเพิ่มยูนิตอูเบอร์แรร์จำกัด โกเนโกะ พรหมจารีโลหะ! กาชาพิเศษ 120ล. ดาวน์โหลด!\t0",
+            "20261013\t1100\t20261016\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t991\t150\t0\t20600\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tThe Almighties, supreme beings of Catkind! ★ Tap banner for info!\t0\t5\tfr\tLes Immortels, êtres suprêmes chez les Chats ! ★ Touche pour plus d’infos !\tit\tGli Onnipotenti, esseri supremi di origine felina! ★ Tocca il banner!\tde\tDie Allmächtigen, die höchsten Wesen der Katzheit! ★ Tippe auf das Banner!\tes\t¡Los Todopoderosos, seres felinos supremos! ★ ¡Toca para saber más!\tth\tเทพเจ้า สุดยอดแห่งเผ่าพันธุ์แมว! ★ แตะแบนเนอร์เพื่อดูข้อมูลได้เลย!\t0\t0",
+            "20261013\t1100\t20261016\t1100\t150600\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1059\t150\t0\t20600\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tVornado added! Dragon kings of overwhelming power!\t0\t0\t5\tfr\tVornado ajoutée ! Des rois dragons au pouvoir immense !\tit\tAggiunta  Vornado! Re Dragoni di travolgente potenza!\tde\tEinheit „Vornado“ hinzugefügt! Überwältigend mächtige Drachenkönige!\tes\t¡Unidad «Vornado»! ¡Reyes dragones!\tth\tเพิ่มยูนิตใหม่ วอร์นาโด! ราชามังกรแห่งพลังเกินต้าน!\t0\t0\t0",
+            "20261016\t1100\t20261020\t1100\t150600\t999999\t0\t0\t1\t1\t1068\t150\t0\t4216\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tNew unit Akane Tounji added! An awesome variety pack of crazy Cats!\t5\tfr\tNouvelle unité Akane Tounji ajoutée ! Un choix incroyable de Chats cinglés !\tit\tAggiunta nuova unità Akane Tounji! Ampia varietà di Gatti pazzi!\tde\tEinheit „Akane Tounji“ hinzugefügt! Eine Super-Sortiment verrückter Katzen!\tes\t¡Nueva unidad «Akane Tounji»! ¡Un montón de gatos!\tth\tเพิ่มยูนิตใหม่ อากาเนะ โทอึนจิ! แพ็กรวมแมวเพี้ยนสุดเจ๋ง!\t0",
+            "20261016\t1100\t20261018\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t986\t150\t0\t4216\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tMamoluga added! Unstoppable Eldritch Cats(?)!\t0\t5\tfr\tMamoluga ajoutée ! Chats (?) surnaturels invincibles !\tit\tAggiunta  Mamoluga! Gatti arcani (?) inarrestabili!\tde\tEinheit „Mamoluga“ hinzugefügt! Unaufhaltsame schaurige Katzen(?)!\tes\t¡Unidad «Mamoluga»! ¡Gatos de Eldritch!\tth\tเพิ่มยูนิตใหม่ มาโมลูก้า! แมวเอลดริตช์เกินต้าน (?)!\t0\t0",
+            "20261016\t1100\t20261018\t1100\t150600\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t979\t150\t0\t4216\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tMighty Morta-Loncha added! Ultimate anti-Zombie firepower!\t0\t0\t5\tfr\tPuissant lance-obus ajoutée ! Puissance de feu anti-zombie ultime !\tit\tAggiunta  Obice possente! Potenza anti-zombi finale!\tde\tEinheit „Mächtige Morta-Loncha“ hinzugefügt! Ultimative Feuerkraft gg. Zombies!\tes\t¡Unidad «Gatomortero Brutal»! ¡Poder antizombi!\tth\tเพิ่มยูนิตใหม่ มอร์ต้า-ลอนค่าจอมพลัง! กำลังต่อสู้ต้านซอมบี้แบบสุดยอด!\t0\t0\t0",
+            "20261018\t1100\t20261020\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1021\t150\t0\t4216\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tRaclesa added! Cosmic cuties, here to crush your enemies!\t0\t5\tfr\tRaclesa la lionne ajoutée ! Beautés cosmiques qui tueront tes ennemis !\tit\tAggiunta  Raclesa la Leonessa! Bellezze cosmiche distruttive!\tde\tEinheit „Raclesa die Löwin“ hinzugefügt! Kosmische Fratze vernichten deine Gegner!\tes\t¡Unidad «Raclesa la Leona»! ¡Bellezas cósmicas!\tth\tเพิ่มยูนิตใหม่ ราเคลซา นางสิงโต! แมวจักรวาลน่าเอ็นดู มาที่นี่เพื่อปราบศัตรูของคุณ!\t0\t0",
+            "20261018\t1100\t20261020\t1100\t150600\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1043\t150\t0\t4216\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tFuma Kotaro added! Masters of battle join the Cat cause!\t0\t0\t5\tfr\tFuma Kotaro ajoutée ! Maîtres du combat pour la cause des Chats !\tit\tAggiunta  Fuma Kotaro! Eroi combattenti per la causa felina!\tde\tEinheit „Fuma Kotaro“ hinzugefügt! Kampfmeister schließen sich den Katzen an!\tes\t¡Unidad «Fuma Kotaro»! ¡Maestros del combate!\tth\tเพิ่มยูนิตใหม่ ฟูมะ โคตาโระ! ปรมาจารย์แห่งการศึกมาร่วมต่อสู้เพื่อแมวแล้ว!\t0\t0\t0",
+            "20261020\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t1\t1070\t150\t0\t4216\t0\t0\t6470\t0\t2600\t0\t900\t0\t30\t0\tLone Moon Lunos added! Special Capsules featuring powerful limited units!\t5\tfr\tLunos, Lune solitaire ajoutée ! Chapsules spéciales : puissantes unités limitées !\tit\tAggiunta  Luna solitaria Lunos! Capsule speciali con unità limitate speciali!\tde\tEinheit „Lunos der einsame Mond“ hinzugefügt! Besondere Kapseln mit mächtigen limit. Einheiten!\tes\t¡Unidad «Lunos Luna Solitaria»! Las bolas especiales traen unidades limitadas poderosas.\tth\tเพิ่มยูนิตใหม่ ลูโนส จันทร์เดียวดาย! กาชาพิเศษที่มียูนิตจำกัดทรงพลัง!\t0",
+            "20261020\t1100\t20261023\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1004\t150\t0\t20600\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tConjurer hero Komori joins the fight! ★Tap for details!\t0\t5\tfr\tLe héros conjurateur Komori rejoint le combat ! ★Touche pour + d’infos !\tit\tL'eroe evocatore Komori scende in campo! ★Tocca per info!\tde\tBeschwörerheld „Komori“ tritt dem Kampf bei! ★Für Details tippen!\tes\t¡El héroe invocador «Komori» se une a la lucha! ★ ¡Toca para saber más!\tth\tฮีโร่นักปลุกวิญญาณ โคโมริ เข้าร่วมทัพ! ★แตะเพื่อดูรายละเอียด!\t0\t0",
+            "20261020\t1100\t20261023\t1100\t150600\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t947\t150\t0\t20600\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tCommand mighty Conjurer Mech Patrol Axel! ★Tap banner for info!\t0\t0\t5\tfr\tConjurateur Méca-patrouille Axel rejoint la bataille ! ★ Touche pour info !\tit\tL'evocatore Axel Pattuglia Mech scende in campo! ★ Tocca il banner!\tde\tBeschwörer „Mecha-Patrouille Axel“ tritt dem Kampf bei! ★Tippe auf das Banner!\tes\t¡El invocador «Guardia mecánico Axel» se une a la lucha! ★ ¡Toca para saber más!\tth\tนักปลุกวิญญาณ แอ็กเซิล หน่วยลาดตระเวนเมค มาร่วมต่อสู้ด้วย! ★แตะแบนเนอร์เพื่อดูข้อมูล!\t0\t0\t0",
+            "20261023\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t946\t150\t0\t20600\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tHanasaka Cat added! Mythical fantasy Cat heroes!\t0\t5\tfr\tChat Hanasaka ajoutée ! Des Chats héros mythiques !\tit\tAggiunta  Gatto Hanasaka! Mitici Gatti fantasy!\tde\tEinheit „Hanasaka-Katze“ hinzugefügt! Mythische Fantasy-Katzenhelden!\tes\t¡Unidad «Gato Hanasaka»! ¡Héroes míticos!\tth\tเพิ่มยูนิตใหม่ แมวฮานาซากะ! ฮีโร่แมวแฟนตาซีในตำนาน!\t0\t0",
+            "20261023\t1100\t20261026\t1100\t150600\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1015\t150\t0\t20600\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tSorceress Sidmi added! Spooky beauties from beyond!\t0\t0\t5\tfr\tSorcière Sidmi ajoutée ! Beautés inquiétantes de l’au-delà !\tit\tAggiunta  Maga Sidmi! Bellezze spettrali dall'aldilà!\tde\tEinheit „Zauberin Sidmi“ hinzugefügt! Gruselschönheiten aus dem Jenseits!\tes\t¡Unidad «Hechicera Sidmi»! ¡Bellezas del más allá!\tth\tเพิ่มยูนิตใหม่ แม่มดซิดมี! สาวงามสุดหลอนจากโลกอื่น!\t0\t0\t0"
+          ]
+        },
+        {
+          "file": "en_item.tsv",
+          "additions": 12,
+          "deletions": 10,
+          "added": [
+            "20260918\t1100\t20261111\t1100\t150600\t999999\t0\t0\t52560\t301\t0\t\t\t7\t0\t0\t0\t0\t0\t0",
+            "20260918\t1100\t20261111\t1100\t150600\t999999\t0\t0\t52561\t302\t0\t\t\t7\t0\t0\t0\t0\t0\t0",
+            "20261102\t1100\t20261116\t1100\t150700\t999999\t0\t0\t52603\t954\t0\tRiver City Clash Collab Login Stamps\tThrough 11/16, login once each day during the Collab Event to collect a new stamp!<br>Look out for Kunio-kun and Ryuichi!\t7\t0\t1\t5\tfr\tRiver City Clash Collab Login Stamps\tThrough 11/16, login once each day during the Collab Event to collect a new stamp!<br>Look out for Kunio-kun and Ryuichi!\tit\tRiver City Clash Collab Login Stamps\tThrough 11/16, login once each day during the Collab Event to collect a new stamp!<br>Look out for Kunio-kun and Ryuichi!\tde\tRiver City Clash Collab Login Stamps\tThrough 11/16, login once each day during the Collab Event to collect a new stamp!<br>Look out for Kunio-kun and Ryuichi!\tes\tRiver City Clash Collab Login Stamps\tThrough 11/16, login once each day during the Collab Event to collect a new stamp!<br>Look out for Kunio-kun and Ryuichi!\tth\tRiver City Clash Collab Login Stamps\tThrough 11/16, login once each day during the Collab Event to collect a new stamp!<br>Look out for Kunio-kun and Ryuichi!\t0\t0\t0",
+            "20261102\t1100\t20261109\t1100\t150700\t999999\t0\t0\t52604\t800\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261102\t1100\t20261116\t1100\t150700\t999999\t0\t0\t52606\t852\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261109\t1100\t20261116\t1100\t150700\t999999\t0\t0\t52607\t800\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261111\t1100\t20300101\t1100\t150700\t999999\t0\t0\t52609\t301\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261111\t1100\t20300101\t1100\t150700\t999999\t0\t0\t52610\t302\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261111\t1100\t20261118\t1100\t150700\t999999\t0\t0\t52611\t835\t0\t\t\t7\t0\t2\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261111\t1100\t20261118\t1100\t150700\t999999\t0\t0\t52612\t802\t0\t\t\t7\t0\t4\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261111\t1100\t20261207\t1100\t150700\t999999\t0\t0\t52614\t816\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261111\t1100\t20261207\t1100\t150700\t999999\t0\t0\t52615\t837\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0"
+          ],
+          "removed": [
+            "20260918\t1100\t20300101\t1100\t150600\t999999\t0\t0\t52560\t301\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20260918\t1100\t20300101\t1100\t150600\t999999\t0\t0\t52561\t302\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261012\t1100\t20261028\t000\t150600\t999999\t0\t0\t52574\t35052\t0\tKoneko Music Festival Login Bonus (Lv. 1)\tCelebrate the Music Festival through 10/27!<br>Rewards will be upgraded according to Lv!\t7\t0\t1\t5\tfr\tBonus de connexion du Festival de musique de Koneko (Niv. 1)\tProfite du Festival jusqu'au 27/10 !<br>Les récompenses s'améliorent avec le niveau !\tit\tBonus accesso Koneko Music Festival (liv. 1)\tCelebra il festival musicale fino al 10/27!<br>Le ricompense saranno migliori in base al livello!\tde\tKoneko-Musikfestival-Anmeldebonus (St. 1)\tFeiere das Musikfestival bis zum (27.10.)!<br>Belohnungen werden mit der Stufe verbessert!\tes\tBonus de lealtad Festival de la Música de Koneko (nvl. 1)\t¡Celébralo hasta el 27/10!<br>¡Los premios mejorarán según el nivel!\tth\tโบนัสล็อกอินเทศกาลดนตรีโกเนโกะ (เลเวล 1)\tฉลองเทศกาลดนตรีจนถึง 27/10!<br>รางวัลจะถูกอัปเกรดตามเลเวล!\t0\t0\t0",
+            "20261012\t1100\t20261028\t000\t150600\t999999\t0\t0\t52575\t35053\t0\tKoneko Music Festival Login Bonus (Lv. 2)\tCelebrate the Music Festival through 10/27!<br>Rewards will be upgraded according to Lv!\t7\t0\t1\t5\tfr\tBonus de connexion du Festival de musique de Koneko (Niv. 2)\tProfite du Festival jusqu'au 27/10 !<br>Les récompenses s'améliorent avec le niveau !\tit\tBonus accesso Koneko Music Festival (liv. 2)\tCelebra il festival musicale fino al 10/27!<br>Le ricompense saranno migliori in base al livello!\tde\tKoneko-Musikfestival-Anmeldebonus (St. 2)\tFeiere das Musikfestival bis zum (27.10.)!<br>Belohnungen werden mit der Stufe verbessert!\tes\tBonus de lealtad Festival de la Música de Koneko (nvl. 2)\t¡Celébralo hasta el 27/10!<br>¡Los premios mejorarán según el nivel!\tth\tโบนัสล็อกอินเทศกาลดนตรีโกเนโกะ (เลเวล 2)\tฉลองเทศกาลดนตรีจนถึง 27/10!<br>รางวัลจะถูกอัปเกรดตามเลเวล!\t0\t0\t0",
+            "20261012\t1100\t20261028\t000\t150600\t999999\t0\t0\t52576\t35054\t0\tKoneko Music Festival Login Bonus (Lv. 3)\tCelebrate the Music Festival through 10/27!<br>Rewards will be upgraded according to Lv!\t7\t0\t1\t5\tfr\tBonus de connexion du Festival de musique de Koneko (Niv. 3)\tProfite du Festival jusqu'au 27/10 !<br>Les récompenses s'améliorent avec le niveau !\tit\tBonus accesso Koneko Music Festival (liv. 3)\tCelebra il festival musicale fino al 10/27!<br>Le ricompense saranno migliori in base al livello!\tde\tKoneko-Musikfestival-Anmeldebonus (St. 3)\tFeiere das Musikfestival bis zum (27.10.)!<br>Belohnungen werden mit der Stufe verbessert!\tes\tBonus de lealtad Festival de la Música de Koneko (nvl. 3)\t¡Celébralo hasta el 27/10!<br>¡Los premios mejorarán según el nivel!\tth\tโบนัสล็อกอินเทศกาลดนตรีโกเนโกะ (เลเวล 3)\tฉลองเทศกาลดนตรีจนถึง 27/10!<br>รางวัลจะถูกอัปเกรดตามเลเวล!\t0\t0\t0",
+            "20261017\t000\t20261028\t000\t150600\t999999\t0\t0\t52577\t35055\t0\tKoneko Music Festival Login Bonus (Lv. 4)\tCelebrate the Music Festival through 10/27!<br>Rewards will be upgraded according to Lv!\t7\t0\t1\t5\tfr\tBonus de connexion du Festival de musique de Koneko (Niv. 4)\tProfite du Festival jusqu'au 27/10 !<br>Les récompenses s'améliorent avec le niveau !\tit\tBonus accesso Koneko Music Festival (liv. 4)\tCelebra il festival musicale fino al 10/27!<br>Le ricompense saranno migliori in base al livello!\tde\tKoneko-Musikfestival-Anmeldebonus (St. 4)\tFeiere das Musikfestival bis zum (27.10.)!<br>Belohnungen werden mit der Stufe verbessert!\tes\tBonus de lealtad Festival de la Música de Koneko (nvl. 4)\t¡Celébralo hasta el 27/10!<br>¡Los premios mejorarán según el nivel!\tth\tโบนัสล็อกอินเทศกาลดนตรีโกเนโกะ (เลเวล 4)\tฉลองเทศกาลดนตรีจนถึง 27/10!<br>รางวัลจะถูกอัปเกรดตามเลเวล!\t0\t0\t0",
+            "20261005\t1100\t20261016\t1100\t150600\t999999\t0\t0\t52578\t801\t0\t\t\t300\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261005\t1100\t20261016\t1100\t150600\t999999\t0\t0\t52579\t821\t0\t\t\t300\t2\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
+            "20261021\t000\t20261028\t000\t150600\t999999\t0\t0\t52589\t35056\t0\tKoneko Music Festival Login Bonus (Lv. 5)\tCelebrate the Music Festival through 10/27!<br>Rewards will be upgraded according to Lv!\t7\t0\t1\t5\tfr\tBonus de connexion du Festival de musique de Koneko (Niv. 5)\tProfite du Festival jusqu'au 27/10 !<br>Les récompenses s'améliorent avec le niveau !\tit\tBonus accesso Koneko Music Festival (liv. 5)\tCelebra il festival musicale fino al 10/27!<br>Le ricompense saranno migliori in base al livello!\tde\tKoneko-Musikfestival-Anmeldebonus (St. 5)\tFeiere das Musikfestival bis zum (27.10.)!<br>Belohnungen werden mit der Stufe verbessert!\tes\tBonus de lealtad Festival de la Música de Koneko (nvl. 5)\t¡Celébralo hasta el 27/10!<br>¡Los premios mejorarán según el nivel!\tth\tโบนัสล็อกอินเทศกาลดนตรีโกเนโกะ (เลเวล 5)\tฉลองเทศกาลดนตรีจนถึง 27/10!<br>รางวัลจะถูกอัปเกรดตามเลเวล!\t0\t0\t0",
+            "20261025\t000\t20261028\t000\t150600\t999999\t0\t0\t52590\t35057\t0\tKoneko Music Festival Login Bonus (Lv. MAX)\tCelebrate the Music Festival with a 100 Cat Food gift each day until 10/27!!\t7\t0\t1\t5\tfr\tBonus de connexion du Festival de musique de Koneko (Niv. MAX)\tProfite du Festival de musique avec 100 Miam offerts par jour<br>jusqu'au 27/10 !!!\tit\tBonus accesso Koneko Music Festival (Liv. MAX)\tCelebra il Music Festival con 100 Friskat in omaggio<br> ogni giorno fino al 10/27!!\tde\tKoneko-Musikfestival-Anmeldebonus (St. MAX)\tFeiere das Musikfestival bis zum (27.10.) mit 100 Katzenbatzen täglich!\tes\tBonus de lealtad Festival de la Música de Koneko (nvl. máx.)\t¡Celébralo hasta el 27/10<br>con regalos de 100 Friskas todos los días!\tth\tโบนัสล็อกอินเทศกาลดนตรีโกเนโกะ (เลเวลสูงสุด)\tฉลองเทศกาลดนตรีด้วยของขวัญอาหารแมว 100 กระป๋องทุกวันจนถึง 27/10!\t0\t0\t0"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-26 16:28:37",
       "files": [
         {
@@ -495,23 +597,6 @@
             "20260728\t1100\t20300101\t0\t150500\t999999\t0\t0\t1\t114\t0",
             "20260828\t1100\t20261005\t1100\t150500\t999999\t0\t0\t12\t102\t3000\t3001\t3002\t3003\t3004\t3005\t3006\t3007\t3008\t-1\t-2\t0"
           ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-07 11:56:56",
-      "files": [
-        {
-          "file": "en_sale.tsv",
-          "additions": 4,
-          "deletions": 0,
-          "added": [
-            "20260904\t1100\t20260911\t1100\t150500\t999999\t0\t0\t18\t1117\t1199\t1217\t1296\t1177\t1214\t1232\t1375\t1377\t1158\t1207\t1095\t1196\t1229\t1338\t1231\t1393\t1378\t0",
-            "20260904\t1100\t20260911\t1100\t150500\t999999\t0\t0\t2\t9764\t9765\t0",
-            "20260911\t1100\t20260918\t1100\t150500\t999999\t0\t0\t11\t1119\t1201\t1128\t1205\t1220\t1383\t1219\t1381\t1379\t1226\t1243\t0",
-            "20260911\t1100\t20260918\t1100\t150500\t999999\t0\t0\t2\t9770\t9771\t0"
-          ],
-          "removed": []
         }
       ]
     }
