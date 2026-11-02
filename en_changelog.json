@@ -1,6 +1,20 @@
 {
   "updates": [
     {
+      "date": "2026-11-02 17:08:49",
+      "files": [
+        {
+          "file": "en_item.tsv",
+          "additions": 1,
+          "deletions": 0,
+          "added": [
+            "20261104\t1100\t20261116\t1100\t150700\t999999\t0\t0\t2537\t202\t1\tApology for Event Bug\t1 Cat Ticket has been sent as an apology for the bug involving  Halloween Party Missions.<br>Please check \"A Message From PONOS\" in the app for details.\t7\t0\t0\t5\tfr\tApology for Event Bug\t1 Cat Ticket has been sent as an apology for the bug involving  Halloween Party Missions.<br>Please check \"A Message From PONOS\" in the app for details.\tit\tApology for Event Bug\t1 Cat Ticket has been sent as an apology for the bug involving  Halloween Party Missions.<br>Please check \"A Message From PONOS\" in the app for details.\tde\tApology for Event Bug\t1 Cat Ticket has been sent as an apology for the bug involving  Halloween Party Missions.<br>Please check \"A Message From PONOS\" in the app for details.\tes\tApology for Event Bug\t1 Cat Ticket has been sent as an apology for the bug involving  Halloween Party Missions.<br>Please check \"A Message From PONOS\" in the app for details.\tth\tApology for Event Bug\t1 Cat Ticket has been sent as an apology for the bug involving  Halloween Party Missions.<br>Please check \"A Message From PONOS\" in the app for details.\t0\t0\t0"
+          ],
+          "removed": []
+        }
+      ]
+    },
+    {
       "date": "2026-10-30 10:33:07",
       "files": [
         {
@@ -577,25 +591,6 @@
             "20260901\t000\t20260902\t000\t150500\t999999\t0\t0\t52550\t835\t0\t\t\t7\t0\t2\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
             "20260901\t000\t20260902\t000\t150500\t999999\t0\t0\t52551\t802\t0\t\t\t7\t0\t4\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
             "20260907\t000\t20260908\t000\t150500\t999999\t0\t0\t2527\t203\t1\tLabor Day Reward!\tEnjoy a Rare Ticket to celebrate the end of summer!\t7\t0\t0\t5\tfr\tBonne fête du travail !\tVoici un ticket rare pour fêter la fin de l’été !\tit\tSi torna a scuola!\tEcco un biglietto raro per festeggiare la fine dell'estate!\tde\tLabor-Day-Belohnung!\tEin seltenes Ticket zum Ende des Sommers!\tes\t¡Día del Trabajador!\tRecibe un tique raro para festejar el fin del verano.\tth\tสุขสันต์วันขอบคุณพระเจ้า!\tรับตั๋วแรร์ไปฉลองการสิ้นสุดฤดูร้อน!\t0\t0\t0"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-09 19:03:13",
-      "files": [
-        {
-          "file": "en_sale.tsv",
-          "additions": 3,
-          "deletions": 2,
-          "added": [
-            "20260828\t1100\t20260918\t1100\t150500\t999999\t0\t0\t12\t102\t3000\t3001\t3002\t3003\t3004\t3005\t3006\t3007\t3008\t-1\t-2\t0",
-            "20260728\t1100\t20300101\t0\t150500\t999999\t0\t0\t1\t114\t0",
-            "20260918\t1100\t20261005\t1100\t150500\t999999\t0\t0\t10\t102\t3000\t3001\t3002\t3003\t3004\t3005\t3006\t3007\t3008\t0"
-          ],
-          "removed": [
-            "20260728\t1100\t20300101\t0\t150500\t999999\t0\t0\t1\t114\t0",
-            "20260828\t1100\t20261005\t1100\t150500\t999999\t0\t0\t12\t102\t3000\t3001\t3002\t3003\t3004\t3005\t3006\t3007\t3008\t-1\t-2\t0"
           ]
         }
       ]
