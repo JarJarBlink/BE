@@ -1,6 +1,21 @@
 {
   "updates": [
     {
+      "date": "2026-11-09 09:31:53",
+      "files": [
+        {
+          "file": "en_sale.tsv",
+          "additions": 2,
+          "deletions": 0,
+          "added": [
+            "20261107\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t24054\t0",
+            "20261107\t1100\t20261116\t1100\t150700\t999999\t0\t0\t1\t5003\t0"
+          ],
+          "removed": []
+        }
+      ]
+    },
+    {
       "date": "2026-11-02 17:08:49",
       "files": [
         {
@@ -511,86 +526,6 @@
           "removed": [
             "20260904\t1100\t20300101\t1100\t150500\t999999\t0\t0\t52553\t301\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
             "20260904\t1100\t20300101\t1100\t150500\t999999\t0\t0\t52554\t302\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-11 12:00:36",
-      "files": [
-        {
-          "file": "en_sale.tsv",
-          "additions": 1,
-          "deletions": 22,
-          "added": [
-            "20260915\t1100\t20300101\t0\t150600\t999999\t0\t0\t1\t114\t0"
-          ],
-          "removed": [
-            "20260803\t1100\t20260828\t1100\t150400\t999999\t0\t2\t0\t0\t20\t1\t1100\t1400\t0\t0\t42\t1\t1900\t2200\t1\t1028\t0",
-            "20260803\t1100\t20260828\t1100\t150400\t999999\t0\t2\t0\t0\t43\t1\t1100\t1400\t0\t0\t84\t1\t1900\t2200\t1\t1059\t0",
-            "20260803\t1100\t20260828\t1100\t150400\t999999\t0\t3\t0\t0\t72\t1\t800\t900\t0\t0\t18\t1\t1600\t1700\t0\t0\t37\t1\t2200\t2300\t1\t1124\t0",
-            "20260803\t1100\t20260828\t1100\t150400\t999999\t0\t3\t0\t0\t32\t1\t800\t1000\t0\t0\t8\t1\t1600\t1800\t0\t0\t2\t1\t2200\t2400\t1\t1155\t0",
-            "20260803\t1100\t20260828\t1100\t150400\t999999\t0\t3\t0\t0\t4\t1\t800\t1000\t0\t0\t32\t1\t1600\t1800\t0\t0\t16\t1\t2200\t2400\t1\t1319\t0",
-            "20260807\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t24073\t0",
-            "20260807\t1100\t20260828\t1100\t150500\t999999\t0\t1\t0\t0\t0\t1\t0\t2400\t1\t24081\t0",
-            "20260807\t1100\t20260828\t1100\t150500\t999999\t0\t0\t8\t9731\t9732\t9733\t9734\t9735\t9736\t9737\t9738\t0",
-            "20260814\t1100\t20260828\t1100\t150500\t999999\t0\t1\t0\t0\t0\t1\t0\t2400\t1\t1434\t0",
-            "20260814\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t1407\t0",
-            "20260814\t1100\t20260828\t1100\t150500\t999999\t0\t0\t7\t9739\t9740\t9741\t9742\t9743\t9744\t9745\t0",
-            "20260814\t1100\t20260828\t1100\t150500\t999999\t0\t0\t15\t0\t1\t2\t3\t4\t5\t6\t7\t8\t9\t10\t51\t700\t701\t702\t0",
-            "20260815\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t24054\t0",
-            "20260815\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t5003\t0",
-            "20260816\t1100\t20260902\t1100\t150500\t999999\t0\t0\t1\t11044\t0",
-            "20260821\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t1408\t0",
-            "20260821\t1100\t20260828\t1100\t150500\t999999\t0\t0\t5\t9746\t9747\t9748\t9749\t9750\t0",
-            "20260821\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t18105\t0",
-            "20260824\t1100\t20260831\t1100\t150500\t999999\t0\t0\t1\t24065\t0",
-            "20260828\t1100\t20260904\t000\t150500\t999999\t0\t0\t1\t18100\t0"
-          ]
-        },
-        {
-          "file": "en_gatya.tsv",
-          "additions": 0,
-          "deletions": 13,
-          "added": [],
-          "removed": [
-            "20260807\t1100\t20260829\t0\t150500\t999999\t0\t0\t4\t1\t51\t0\t0\t0\t3400\t0\t3800\t0\t2000\t0\t800\t1\t0\t0\t[Summer Break Cats] Use Legendary Banknotes for limited event Capsules til 8/28!\tDraw \t more times from this Event for a guaranteed chance at a Limited Hero!\t5\tfr\t[Chats de vacances d’été] Utilise des Billets de banque légendaires !\tOuvre encore \t Chapsules dans cet événement pour obtenir un héros exclusif à coup sûr.\tit\t[Gatti estivi] Usa Banconota leggendaria, fino al 28/8!\tSorteggia \t volte da questo evento per ottenere un eroe limitato garantito!\tde\t[Sommerferienkatzen] Bis 28. 8. : Gegenst. & limit. Katzen mit Legendäre Banknote!\tZiehe \t Mal öfter aus diesem Event für einen limit. Helden garantiert!\tes\t[Gatos Estivales] Bolas exclusivas con Billete legendario hasta el 28/08\tAbre \t bolas más en este evento para llevarte un héroe exclusivo.\tth\t[แมวพักฤดูร้อน] ใช้ธนบัตรตำนาน!ในกาชาอีเวนต์จำกัดถึง 28/08!\tสุ่ม \t ได้มากครั้งขึ้นจากอีเวนต์นี้เพื่อรับประกันโอกาสได้ฮีโร่แบบจำกัด!\t0",
-            "20260815\t1100\t20260828\t1100\t150500\t999999\t0\t0\t0\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t3\t0\t300\t0\t400\t0\t2000\t0\t7000\t0\t600\t0\t0\t0\tLimited Capsules ★ Collect Catfruit by drawing from this set!\t0\t5\tfr\tChapsules ponctuelles ★ Obtiens des Chagrumes dans cet ensemble !\tit\tCapsule limitate ★ Ottieni miagrumi sorteggiando da questo set!\tde\tLimitierte Kapseln ★ Sammle Katzenfrüchte aus diesem Set!\tes\tBolas exclusivas ★ ¡Consigue fruta felina en esta serie de bolas!\tth\tกาชาจำกัด ★ เก็บผลไม้เหมียวด้วยการสุ่มจากเซ็ตนี้!\t0\t0",
-            "20260807\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t1\t1075\t150\t0\t16384\t0\t0\t7000\t0\t2500\t0\t500\t0\t0\t0\tLimited Summer capsules with a exciting hero! Tap banner for info!\t5\tfr\tChapsules d’été limitées avec héros au top ! Touche pour plus d’infos !\tit\tCapsule limitate estive con un eroe esaltante! Tocca il banner!\tde\tLimitierte Sommerkapseln mit einem aufregenden Helden! Tippe auf das Banner!\tes\t¡Bolas de verano exclusivas con un héroe emocionante! ¡Toca para saber más!\tth\tกาชาฤดูร้อนจำกัดพร้อมฮีโร่ใหม่สุดตื่นเต้น! แตะแบนเนอร์เพื่อดูข้อมูล!\t0",
-            "20260814\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1075\t150\t0\t16384\t0\t0\t7000\t0\t2500\t0\t500\t0\t0\t0\tLimited Summer capsules with a exciting hero! Tap banner for info!\t0\t5\tfr\tChapsules d’été limitées avec héros au top ! Touche pour plus d’infos !\tit\tCapsule limitate estive con un eroe esaltante! Tocca il banner!\tde\tLimitierte Sommerkapseln mit einem aufregenden Helden! Tippe auf das Banner!\tes\t¡Bolas de verano exclusivas con un héroe emocionante! ¡Toca para saber más!\tth\tกาชาฤดูร้อนจำกัดพร้อมฮีโร่ใหม่สุดตื่นเต้น! แตะแบนเนอร์เพื่อดูข้อมูล!\t0\t0",
-            "20260821\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t1\t1075\t150\t0\t4216\t0\t0\t7000\t0\t2500\t0\t500\t1\t0\t0\tLimited Summer capsules with a exciting hero! Tap banner for info!\t5\tfr\tChapsules d’été limitées avec héros au top ! Touche pour plus d’infos !\tit\tCapsule limitate estive con un eroe esaltante! Tocca il banner!\tde\tLimitierte Sommerkapseln mit einem aufregenden Helden! Tippe auf das Banner!\tes\t¡Bolas de verano exclusivas con un héroe emocionante! ¡Toca para saber más!\tth\tกาชาฤดูร้อนจำกัดพร้อมฮีโร่ใหม่สุดตื่นเต้น! แตะแบนเนอร์เพื่อดูข้อมูล!\t0",
-            "20260824\t1100\t20260826\t1100\t150500\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1015\t150\t0\t4216\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tSorceress Sidmi added! Spooky beauties from beyond!\t0\t5\tfr\tSorcière Sidmi ajoutée ! Beautés inquiétantes de l’au-delà !\tit\tAggiunta  Maga Sidmi! Bellezze spettrali dall'aldilà!\tde\tEinheit „Zauberin Sidmi“ hinzugefügt! Gruselschönheiten aus dem Jenseits!\tes\t¡Unidad «Hechicera Sidmi»! ¡Bellezas del más allá!\tth\tเพิ่มยูนิตใหม่ แม่มดซิดมี! สาวงามสุดหลอนจากโลกอื่น!\t0\t0",
-            "20260824\t1100\t20260826\t1100\t150500\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1021\t150\t0\t4216\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tRaclesa added! Cosmic cuties, here to crush your enemies!\t0\t0\t5\tfr\tRaclesa la lionne ajoutée ! Beautés cosmiques qui tueront tes ennemis !\tit\tAggiunta  Raclesa la Leonessa! Bellezze cosmiche distruttive!\tde\tEinheit „Raclesa die Löwin“ hinzugefügt! Kosmische Fratze vernichten deine Gegner!\tes\t¡Unidad «Raclesa la Leona»! ¡Bellezas cósmicas!\tth\tเพิ่มยูนิตใหม่ ราเคลซา นางสิงโต! แมวจักรวาลน่าเอ็นดู มาที่นี่เพื่อปราบศัตรูของคุณ!\t0\t0\t0",
-            "20260826\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t2\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1043\t150\t0\t4216\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tFuma Kotaro added! Masters of battle join the Cat cause!\t0\t5\tfr\tFuma Kotaro ajoutée ! Maîtres du combat pour la cause des Chats !\tit\tAggiunta  Fuma Kotaro! Eroi combattenti per la causa felina!\tde\tEinheit „Fuma Kotaro“ hinzugefügt! Kampfmeister schließen sich den Katzen an!\tes\t¡Unidad «Fuma Kotaro»! ¡Maestros del combate!\tth\tเพิ่มยูนิตใหม่ ฟูมะ โคตาโระ! ปรมาจารย์แห่งการศึกมาร่วมต่อสู้เพื่อแมวแล้ว!\t0\t0",
-            "20260826\t1100\t20260828\t1100\t150500\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t946\t150\t0\t4216\t0\t0\t6970\t0\t2500\t0\t500\t1\t30\t0\tHanasaka Cat added! Mythical fantasy Cat heroes!\t0\t0\t5\tfr\tChat Hanasaka ajoutée ! Des Chats héros mythiques !\tit\tAggiunta  Gatto Hanasaka! Mitici Gatti fantasy!\tde\tEinheit „Hanasaka-Katze“ hinzugefügt! Mythische Fantasy-Katzenhelden!\tes\t¡Unidad «Gato Hanasaka»! ¡Héroes míticos!\tth\tเพิ่มยูนิตใหม่ แมวฮานาซากะ! ฮีโร่แมวแฟนตาซีในตำนาน!\t0\t0\t0",
-            "20260828\t1100\t20260829\t000\t150500\t999999\t0\t0\t4\t1\t51\t0\t0\t0\t3400\t0\t3800\t0\t2000\t0\t800\t1\t0\t0\t◀Tap Left or Right to access the Summer Break Cats Returns! Capsules▶\tDraw \t more times from this Event for a guaranteed chance at a Limited Hero!\t5\tfr\t◀Touche à droite ou à gauche pour les Chapsules de Chats de vacances d'été Revient !▶\tOuvre encore \t Chapsules dans cet événement pour obtenir un héros exclusif à coup sûr.\tit\t◀Tocca a sinistra/destra per le capsule evento Gatti estivi Torna nuovamente!▶\tSorteggia \t volte da questo evento per ottenere un eroe limitato garantito!\tde\t◀Hol dir mit den Sommerferienkatzen Kehrt zurück!▶\tZiehe \t Mal öfter aus diesem Event für einen limit. Helden garantiert!\tes\t◀Toca dcha/izda y ve a las bolas de Gatos Estivales Estivales!▶\tAbre \t bolas más en este evento para llevarte un héroe exclusivo.\tth\t◀แตะซ้ายหรือขวาเพื่อเข้าสู่กาชาอีเวนต์วันหยุดฤดูร้อนของน้องแมว รีไววัล▶\tสุ่ม\tได้มากครั้งขึ้นจากอีเวนต์นี้เพื่อรับประกันโอกาสได้ฮีโร่แบบจำกัด!\t0",
-            "20260828\t1100\t20260831\t1100\t150500\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t1004\t150\t0\t16384\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tConjurer hero Komori joins the fight! ★Tap for details!\t0\t0\t5\tfr\tLe héros conjurateur Komori rejoint le combat ! ★Touche pour + d’infos !\tit\tL'eroe evocatore Komori scende in campo! ★Tocca per info!\tde\tBeschwörerheld „Komori“ tritt dem Kampf bei! ★Für Details tippen!\tes\t¡El héroe invocador «Komori» se une a la lucha! ★ ¡Toca para saber más!\tth\tฮีโร่นักปลุกวิญญาณ โคโมริ เข้าร่วมทัพ! ★แตะเพื่อดูรายละเอียด!\t0\t0\t0",
-            "20260831\t1100\t20260902\t1100\t150500\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t947\t150\t0\t16384\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tCommand mighty Conjurer Mech Patrol Axel! ★Tap banner for info!\t0\t0\t5\tfr\tConjurateur Méca-patrouille Axel rejoint la bataille ! ★ Touche pour info !\tit\tL'evocatore Axel Pattuglia Mech scende in campo! ★ Tocca il banner!\tde\tBeschwörer „Mecha-Patrouille Axel“ tritt dem Kampf bei! ★Tippe auf das Banner!\tes\t¡El invocador «Guardia mecánico Axel» se une a la lucha! ★ ¡Toca para saber más!\tth\tนักปลุกวิญญาณ แอ็กเซิล หน่วยลาดตระเวนเมค มาร่วมต่อสู้ด้วย! ★แตะแบนเนอร์เพื่อดูข้อมูล!\t0\t0\t0",
-            "20260902\t1100\t20260904\t1100\t150500\t999999\t0\t0\t1\t3\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t-1\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t942\t150\t0\t16384\t0\t0\t6970\t0\t2500\t0\t500\t0\t30\t0\tConjurer Dynasaurus Cat joins the fight! ★Tap banner for info!\t0\t0\t5\tfr\tConjurateur Chat dinosaure rejoint la bataille ! ★Bannière pour plus d'infos.\tit\tL'evocatore Gattosauro Rex scende in campo! ★ Tocca il banner!\tde\tBeschwörer „Dynasaurus-Katze“ tritt dem Kampf bei! ★Tippe auf das Banner!\tes\t¡El invocador «Gatosaurio» se une a la lucha! ★ ¡Toca para saber más!\tth\tนักปลุกวิญญาณ แมวไดนาซอรัส มาร่วมต่อสู้ด้วย! ★แตะแบนเนอร์เพื่อดูข้อมูลได้เลย!\t0\t0\t0"
-          ]
-        },
-        {
-          "file": "en_item.tsv",
-          "additions": 1,
-          "deletions": 14,
-          "added": [
-            "20260914\t1100\t20260921\t000\t150600\t999999\t0\t0\t2528\t203\t1\tNew Update Reward!\tThanks for picking up Version 15.6!<br>Enjoy a Rare Ticket to celebrate!\t7\t0\t0\t5\tfr\tRécompense de mise à jour !\tMerci d’avoir téléchargé la version 15.6 !<br>Reçois un ticket rare pour fêter ça !\tit\tRicompensa aggiornamento!\tGrazie per essere passato alla versione 15.6!<br>Ecco un biglietto raro per festeggiare!\tde\tNeues-Update-Belohnung!\tDu spielst jetzt Version 15.6!<br>Zur Belohnung erhältst du dieses seltene Ticket!\tes\tPremio de actualización\tGracias por instalar la versión 15.6.<br>¡Disfruta de un tique raro!\tth\tรางวัลอัปเดตใหม่!\tขอขอบคุณที่เลือกเวอร์ชัน 15.6!<br>รับตั๋วแรร์ไปฉลองได้เลย!\t0\t0\t0"
-          ],
-          "removed": [
-            "20260803\t1100\t20260828\t1100\t150400\t999999\t0\t0\t52525\t35018\t0\tThe Battle Cats Training Week\tLog-in each day during the event to earn a stamp!<br>Earn up to 280 Cat Food until 8/28!\t7\t0\t1\t5\tfr\tTBC : semaine d’entraînement\tConnecte-toi chaque jour pendant l’événement pour gagner un tampon !<br>Gagne jusqu’à 280 Miam jusqu’au 28/8 !\tit\tSettimana di addestramento di The Battle Cats\tAccedi ogni giorno durante l'evento per ottenere un timbro!<br>Ottieni fino a 280 Friskat fino al 28/8!\tde\tThe Battle Cats – Trainingswoche\tMelde dich während des Events täglich an und erhalte einen Stempel!<br>Verdiene bis zum 28. 08. bis zu 280 Katzenbatzen!\tes\tSemana de Entrenamiento de The Battle Cats\t¡Gana un sello de lealtad cada día que inicies sesión!<br>¡Podrás ganar un máximo de 280 Friskas hasta el 28/8!\tth\tสัปดาห์ฝึก The Battle Cats\tล็อกอินทุกวันระหว่างอีเวนต์เพื่อรับแสตมป์!<br>รับสูงสุดอาหารแมว 280 กระป๋องจนถึง 28/8!\t0\t0\t0",
-            "20260807\t1100\t20260828\t1100\t150500\t999999\t0\t0\t52527\t35048\t0\tSummer Break Cats Paradise\tCollect Legendary Banknotes and enjoy<br>a chill vacation through 【8/28】!\t7\t0\t1\t5\tfr\tChats de vacances d’été : Paradis\tRécupère des billets légendaires et profite<br>de vacances tranquilles jusqu'au 【28/08】 !\tit\tGatti estivi: paradiso\tRaccogli banconote leggendarie e goditi<br>una vacanza di relax fino al 【28/8】!\tde\tSommerferienkatzen: Paradies\tSammle legendäre Banknoten und genieße<br>entspannenden Urlaub bis 【28/08】!\tes\tGatos Estivales: Paraíso\tConsigue billetes legendarios y disfruta<br>de unas relajantes vacaciones hasta el 【28/8】!\tth\tสวรรค์แมวพักฤดูร้อน\tสวรรค์แมวพักฤดูร้อน<br>รับธนบัตรตำนานและเพลิดเพลินไปกับ<br>วันหยุดสุดชิลจนถึงวันที่ 【28/8】!\t0\t0\t0",
-            "20260807\t1100\t20260828\t1100\t150500\t999999\t0\t0\t52530\t822\t0\t\t\t1\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
-            "20260807\t1100\t20260828\t1100\t150500\t999999\t0\t0\t52532\t837\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
-            "20260814\t1100\t20260904\t1100\t150500\t999999\t0\t0\t52535\t301\t0\t\t\t7\t0\t0\t0\t0\t0\t0",
-            "20260814\t1100\t20260904\t1100\t150500\t999999\t0\t0\t52536\t302\t0\t\t\t7\t0\t0\t0\t0\t0\t0",
-            "20260814\t1100\t20260828\t1100\t150500\t999999\t0\t0\t52537\t801\t0\t\t\t300\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
-            "20260814\t1100\t20260828\t1100\t150500\t999999\t0\t0\t52538\t821\t0\t\t\t300\t2\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
-            "20260814\t1100\t20260828\t1100\t150500\t999999\t0\t0\t52541\t803\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
-            "20260816\t1100\t20260909\t1100\t150500\t999999\t0\t0\t80122\t11044\t0\t\t\t0\t0\t1\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
-            "20260828\t1100\t20260904\t1100\t150500\t999999\t0\t0\t52545\t800\t0\t\t\t7\t0\t0\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
-            "20260901\t000\t20260902\t000\t150500\t999999\t0\t0\t52550\t835\t0\t\t\t7\t0\t2\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
-            "20260901\t000\t20260902\t000\t150500\t999999\t0\t0\t52551\t802\t0\t\t\t7\t0\t4\t5\tfr\t\t\tit\t\t\tde\t\t\tes\t\t\tth\t\t\t0\t0\t0",
-            "20260907\t000\t20260908\t000\t150500\t999999\t0\t0\t2527\t203\t1\tLabor Day Reward!\tEnjoy a Rare Ticket to celebrate the end of summer!\t7\t0\t0\t5\tfr\tBonne fête du travail !\tVoici un ticket rare pour fêter la fin de l’été !\tit\tSi torna a scuola!\tEcco un biglietto raro per festeggiare la fine dell'estate!\tde\tLabor-Day-Belohnung!\tEin seltenes Ticket zum Ende des Sommers!\tes\t¡Día del Trabajador!\tRecibe un tique raro para festejar el fin del verano.\tth\tสุขสันต์วันขอบคุณพระเจ้า!\tรับตั๋วแรร์ไปฉลองการสิ้นสุดฤดูร้อน!\t0\t0\t0"
           ]
         }
       ]
